@@ -1,6 +1,8 @@
 # 💫 About Me:
 I work at Revelint, an AI research company dedicated to developing easy-to-use, manageable, and scalable AI assistants
 
+# ![images](https://github.com/user-attachments/assets/e0341cfc-f7c1-4ae3-afa9-e62b1fb8fd11)
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RudnikVladimir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:v.rudnyk@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-rudnyk/) 
