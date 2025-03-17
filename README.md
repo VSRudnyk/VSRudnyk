@@ -2,7 +2,7 @@
 I work at Revelint, an AI research company dedicated to developing easy-to-use, manageable, and scalable AI assistants
 
 # 💼 Portfolio
-[!Portfolio](https://vsrudnyk.github.io/my-portfolio/)
+[My portfolio](https://vsrudnyk.github.io/my-portfolio/)
 
 
 ## 🌐 Socials:
